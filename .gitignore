@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm
+# -----------
+# User-specific stuff:
+.idea/
+.idea/*
+.idea/*.iml
+.idea/*.iws
+.idea/.idea
+
+# Editor directories and files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# venv
+venv/
+
+# Outputs
+data.json
